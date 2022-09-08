@@ -1,7 +1,6 @@
 <p align="center">
   <img  src="https://raw.githubusercontent.com/helmwave/logo/main/logo.png" style="max-height:100%;" height="300px" />
 </p>
-
 <h1 align="center"> Helmwave</h1>
 
 <p align="center">
